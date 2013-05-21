@@ -1,0 +1,6 @@
+Code run by **insert your name here**
+Environment variable UWHPSC is /Users/cjohnson415/SciComp/uwhpsc
+Environment variable MYHPSC is /Users/cjohnson415/SciComp/myhpsc
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok

@@ -1,0 +1,24 @@
+
+Code run by Charlie
+Environment variable UWHPSC is /Users/cjohnson415/SciComp/uwhpsc
+Environment variable MYHPSC is /Users/cjohnson415/SciComp/myhpsc
+
+which ipython returns...
+/Users/cjohnson415/anaconda/bin/ipython
+
+which gfortran returns...
+/usr/local/bin/gfortran
+
+gfortran --version returns...
+GNU Fortran (GCC) 4.2.1 (Apple Inc. build 5666) (dot 3)
+Copyright (C) 2007 Free Software Foundation, Inc.
+
+GNU Fortran comes with NO WARRANTY, to the extent permitted by law.
+You may redistribute copies of GNU Fortran
+under the terms of the GNU General Public License.
+For more information about these matters, see the file named COPYING
+
+
+Compiling and running a Fortran code...
+ Code run by Charlie
+ Successfully ran Fortran 90 program
